@@ -1,2 +1,2 @@
 # NoPainsNoGains.github.io
-乔巴的博客
+#SSH学习问题总结
